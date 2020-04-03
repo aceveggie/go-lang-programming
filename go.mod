@@ -1,1 +1,3 @@
-module github.com/xiliax/go-lang-programming
+module github.com/aceveggie/go-lang-programming
+
+go 1.14
